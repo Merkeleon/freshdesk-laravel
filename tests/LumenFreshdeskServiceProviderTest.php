@@ -1,6 +1,6 @@
 <?php 
 
-namespace Mpclarkson\Laravel\Freshdesk\Test;
+namespace Merkeleon\Laravel\Freshdesk\Test;
 
 use Illuminate\Config\Repository;
 use Laravel\Lumen\Application;

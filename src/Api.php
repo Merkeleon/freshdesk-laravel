@@ -1,12 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Matthew
- * Date: 22/04/2016
- * Time: 5:55 PM
- */
 
-namespace Mpclarkson\Laravel\Freshdesk;
+namespace Merkeleon\Laravel\Freshdesk;
 
 use Freshdesk\Api as Freshdesk;
 

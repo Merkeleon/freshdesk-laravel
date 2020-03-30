@@ -1,12 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Matthew
- * Date: 22/04/2016
- * Time: 2:00 PM
- */
 
-namespace Mpclarkson\Laravel\Freshdesk;
+namespace Merkeleon\Laravel\Freshdesk;
 
 use Illuminate\Support\Facades\Facade;
 
